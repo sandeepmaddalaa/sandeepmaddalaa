@@ -5,7 +5,7 @@
 
 
 
-sandeepmaddalaa/sandeepmaddalaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//sandeepmaddalaa/sandeepmaddalaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 #include <stdio.h>
