@@ -13,8 +13,7 @@ void reverse_string(char str[], int start, int end)
 }
 int main()
 {
-    char str[20];
-    gets(str);
+    char str[]="Hello world";
     int start, end;
     end=0;
     start=0;
